@@ -43,7 +43,7 @@ An intelligent, end-to-end **Applicant Tracking System** that automates resume p
 | Hosting      | [Your deployment platform here]  |
 
 ---
-
+WORKFLOW OF THE ATS (MESSAGE QUEUE PART)
 ![ATS Workflow](https://github.com/KeerthiShankkar/ATS_SYSTEM/blob/main/assets/workflowATS.png?raw=true)
 ## 🚀 Getting Started
 
