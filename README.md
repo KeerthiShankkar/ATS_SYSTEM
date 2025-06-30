@@ -51,3 +51,4 @@ An intelligent, end-to-end **Applicant Tracking System** that automates resume p
 ```bash
 git clone https://github.com/KeerthiShankkar/ATS_SYSTEM.git
 cd ATS_SYSTEM
+![ATS Workflow](https://github.com/KeerthiShankkar/ATS_SYSTEM/blob/main/assets/workflowATS.png?raw=true)
