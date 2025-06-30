@@ -40,7 +40,6 @@ An intelligent, end-to-end **Applicant Tracking System** that automates resume p
 | Embeddings   | Xenova MiniLM                    |
 | PDF Parsing  | pdfjs-dist                       |
 | Auth         | JWT (JSON Web Tokens)            |
-| Hosting      | [Your deployment platform here]  |
 
 ---
 WORKFLOW OF THE ATS (MESSAGE QUEUE PART)
